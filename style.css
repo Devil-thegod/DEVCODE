@@ -1,0 +1,23 @@
+.content{ background-color: deepskyblue;
+height: 600px;
+width:300px;
+border: 2px grey solid;
+}
+.images{
+    padding:20px;
+    float: right;
+text-align: left;
+    border:2px solid black;
+width:300px;
+}
+.one{
+float: right;
+}
+
+.two{float:left;
+width: 250px;
+padding: 20px;
+margin: 10px;
+border:2px solid black;
+}
+
